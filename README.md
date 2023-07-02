@@ -1,2 +1,6 @@
-# Project - name has to be changed
-ML Project with dataset from Kaggle
+# Breast Cancer Prediction
+Using Kaggle dataset from Diagnostic Wisconsin Breast Cancer Database.
+https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
+---
+Using Jupyter Notebook, by the end the whole project will be also appearing on kaggle account. 
